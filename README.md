@@ -6,3 +6,4 @@ In this tutorial, we will see how to measure objects with OpenCV and python with
 * https://pysource.com/2021/05/28/measure-size-of-an-object-with-opencv-aruco-marker-and-python/
 
 
+* [Detection of ArUco Markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
